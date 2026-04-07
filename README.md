@@ -1,4 +1,4 @@
-# Latihan CRUD Karyawan dengan Java Swing - Praktik OOP Java
+# Database Java - Nindia Nur Artika - I.2510256
 
 Aplikasi desktop sederhana untuk mengelola data karyawan menggunakan Java Swing dan MySQL. Dibuat sebagai tutorial belajar Java dengan GUI dan database.
 
