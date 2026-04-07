@@ -41,3 +41,8 @@ mvn clean compile exec:java
 * **Build Gagal**: Jalankan `mvn clean` untuk menghapus *cache* lama.
 
 
+
+<img width="1919" height="1031" alt="Screenshot 2026-04-07 154238" src="https://github.com/user-attachments/assets/28b32510-c33b-4664-a0f0-f83c62b08baf" />
+
+
+
